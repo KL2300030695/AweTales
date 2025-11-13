@@ -31,6 +31,7 @@ Awetales/
     visualization.py         # Timeline plot
   outputs/                   # Generated results (created at runtime)
 ```
+<img width="1465" height="701" alt="Screenshot 2025-11-13 225707" src="https://github.com/user-attachments/assets/579723fb-c16e-4b4e-98c7-7d8b849ee674" />
 
 ## Quick start (REST, recommended)
 1) Create virtual environment and install deps
